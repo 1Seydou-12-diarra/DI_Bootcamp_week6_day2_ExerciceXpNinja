@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <?php
-   // la function prends une paramètre $number 
+   // la function prends un paramètre $number 
 function factorial($number) {
 // ici la variable $number return 1 si le nombre est inferieur à 2
     if ($number < 2) {
